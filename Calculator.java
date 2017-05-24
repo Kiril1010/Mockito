@@ -34,12 +34,12 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        Calculator calculator = new Calculator();
-        System.out.println("Result of Multiplication = " + calculator.getResultOfMultiplication());
-        System.out.println("Result of Division = " + calculator.getResultOfDivision());
-        System.out.println("Result of Adding = " + calculator.getResultOfAdding());
-        System.out.println("Result of Substruction = " + calculator.getResultOfSubtraction());
-        System.out.println("Result of Quotient = " + calculator.getResultOfQuotient());
+//        Calculator calculator = new Calculator();
+//        System.out.println("Result of Multiplication = " + calculator.getResultOfMultiplication());
+//        System.out.println("Result of Division = " + calculator.getResultOfDivision());
+//        System.out.println("Result of Adding = " + calculator.getResultOfAdding());
+//        System.out.println("Result of Substruction = " + calculator.getResultOfSubtraction());
+//        System.out.println("Result of Quotient = " + calculator.getResultOfQuotient());
     }
 }
 

@@ -16,4 +16,5 @@ public class UseMockitoTest {
         Mockito.when(calculator.getRandomNumberTwo()).thenReturn(5);
         Assert.assertEquals("Result of Multiplication should be 15", 15, calculator.getResultOfMultiplication());
     }
+    //test
 }
